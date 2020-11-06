@@ -1,6 +1,6 @@
 # Tentang Tim Pemaket
 
-Tim yang bertugas membuat dan merawat paket - paket yang ada pada distribusi BlankOn, baik paket impor, khas, maupun paket mentah.
+Tim yang bertugas membuat dan merawat paket-paket yang ada pada distribusi BlankOn, baik paket impor, khas, maupun paket mentah.
 
 ### Cakupan tugas
 
@@ -11,10 +11,10 @@ Tim yang bertugas membuat dan merawat paket - paket yang ada pada distribusi Bla
 
 ### Panduan Pemula
 
-Untuk membantu mulai belajar membuat paket debian, tulisan - tulisan dibawah ini akan membawa Anda mempersiapkan dan mendalami pembuatan paket debian yang dapat dikontribusikan kepada proyek pengembangan BlankOn, dan sekaligus membawa Anda ikut terlibat kedalam proyek BlankOn sebagai tim Pemaket.
-- [Persiapan alat](http://dev.blankonlinux.or.id/wiki/Pemaket/PanduanPembuatanPaketMotu)
+Untuk membantu mulai belajar membuat paket debian, tulisan-tulisan di bawah ini akan membawa Anda mempersiapkan dan mendalami pembuatan paket debian yang dapat dikontribusikan kepada proyek pengembangan BlankOn, dan sekaligus membawa Anda ikut terlibat ke dalam proyek BlankOn sebagai tim Pemaket.
+- [Persiapan alat](https://dev.blankonlinux.or.id/TimPengembang/Pemaket/PanduanPembuatanPaketMotu)
 - Administrasi
-- [Pengenalan Pemaketan Debian](http://dev.blankonlinux.or.id/wiki/Pemaket/MembuatPaketDebian)
+- [Pengenalan Pemaketan Debian](https://dev.blankonlinux.or.id/TimPengembang/Pemaket/MembuatPaketDebian/)
 - [Buku Panduan Pemaketan](http://dev.blankonlinux.or.id/attachment/wiki/Pemaket/Panduan-Pemaketan-BlankOn.2.pdf)
 - Manajemen Pemaketan BlankOn
 - [Pbuilder Multi ARCH](http://dev.blankon.id/wiki/Pemaket/PanduanPbuilderMultiARCH)
